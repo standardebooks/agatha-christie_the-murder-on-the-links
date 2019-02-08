@@ -30,10 +30,10 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Murder on the Links</dc:title>
 		<meta property="file-as" refines="#title">Murder on the Links, The</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
+		<dc:subject id="subject-1">Poirot, Hercule (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators--England--Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://lccn.loc.gov/23006380</meta>
+		<meta property="meta-auth" refines="#subject-2">https://lccn.loc.gov/23006380</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">The famous detective Poirot and his sidekick Hastings are summoned to France to investigate the mysterious murder of a rich expatriate.</dc:description>
@@ -43,8 +43,10 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>LINK</dc:source>
-		<meta property="se:production-notes">Some words that are English words are left in italics, presumably because Poirot pronounces them with a French accent.</meta>
+		<dc:source>https://archive.org/details/murderonlinks000chri</dc:source>
+		<meta property="se:production-notes">Some words that are English words are left in italics, presumably because Poirot pronounces them with a French accent.
+
+		This ebook was transcribed for Standard Ebooks and later uploaded to Project Gutenberg; thus there is no transcription dc:source element, as the ebook itself is the source transcription.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Murder_on_the_Links</meta>
