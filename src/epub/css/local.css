@@ -26,3 +26,11 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
+	max-width: 75%;
+	text-align: center;
+	text-indent: 0;
+}
