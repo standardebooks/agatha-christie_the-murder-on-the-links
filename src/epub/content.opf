@@ -38,7 +38,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="belongs-to-collection" id="collection-1">Poirot</meta>
-		<meta property="collection-type" refines="collection-1">series</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">The famous detective Poirot and his sidekick Hastings are summoned to France to investigate the mysterious murder of a rich businessman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Murder on the Links&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; second &lt;a href="https://standardebooks.org/collections/poirot"&gt;Poirot&lt;/a&gt; novel, featuring the brilliant Belgian detective and his sidekick, Captain Hastings.&lt;/p&gt;
