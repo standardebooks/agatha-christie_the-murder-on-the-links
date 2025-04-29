@@ -39,7 +39,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Poirot</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">The famous detective Poirot and his sidekick Hastings are summoned to France to investigate the mysterious murder of a rich businessman.</dc:description>
+		<dc:description id="description">A famous Belgian detective and his sidekick are summoned to France to investigate the mysterious murder of a rich businessman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Murder on the Links&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; second &lt;a href="https://standardebooks.org/collections/poirot"&gt;Poirot&lt;/a&gt; novel, featuring the brilliant Belgian detective and his sidekick, Captain Hastings.&lt;/p&gt;
 			&lt;p&gt;In this characteristic whodunit, Poirot is summoned to a seaside town in northern France by a desperate letter from a rich businessman, who fears that he is being stalked. Poirot arrives to find the businessman already dead, his body lying facedown in an open grave on a golf course, a knife in his back—the victim of a mysterious murder. Over the coming days Poirot clashes wits with an arrogant Parisian detective, Giraud, while Hastings finds himself pining after a beautiful but shadowy American expatriate known to him only as “Cinderella.” Together, Poirot and Hastings unravel the intricate web of mystery and deceit behind the murder.&lt;/p&gt;
