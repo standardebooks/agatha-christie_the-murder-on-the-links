@@ -51,7 +51,7 @@
 		<meta property="se:production-notes">Some words that are English words are left in italics, presumably because Poirot pronounces them with a French accent.
 
 		This ebook was transcribed for Standard Ebooks and later uploaded to Project Gutenberg; thus there is no transcription dc:source element, as the ebook itself is the source transcription.</meta>
-		<meta property="se:word-count">65615</meta>
+		<meta property="se:word-count">64890</meta>
 		<meta property="se:reading-ease.flesch">77.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Murder_on_the_Links</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_the-murder-on-the-links</meta>
